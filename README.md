@@ -1,7 +1,5 @@
 # SimpleORM
-A practice of orm while learning hibernate
-
-
+A practice of orm while learning hibernate  
 Using Generics + Reflection to build a ORM.
 
 
