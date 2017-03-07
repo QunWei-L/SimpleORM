@@ -12,7 +12,7 @@ import java.sql.SQLException;
  * @version 创建时间：2015年12月9日
  * @author qunwei.lin
  */
-public class DaoUtils {
+public final class DaoUtils {
 
 	public static String url = "jdbc:mysql://10.3.37.55:3306/doubleEleven";
 	public static String name = "root";

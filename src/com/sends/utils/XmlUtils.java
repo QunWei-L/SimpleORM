@@ -12,7 +12,7 @@ import org.w3c.dom.NodeList;
  * @version 创建时间：2015年12月11日
  * @author qunwei.lin
  */
-public class XmlUtils {
+public final class XmlUtils {
 
 	public static void loadXml() {
 
